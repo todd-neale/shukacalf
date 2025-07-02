@@ -424,3 +424,9 @@ section {
     padding: 5px;
   }
 }
+
+@media (max-width: 768px) {
+  .mobile-none {
+    display: none;
+  }
+}
